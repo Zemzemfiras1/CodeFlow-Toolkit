@@ -1,0 +1,10 @@
+[book]
+authors = ["Firas Zemzem"]
+language = "en"
+multilingual = false
+src = "src"
+title = "CodeFlow-Toolkit"
+git-repository-url = "https://github.com/Zemzemfiras1/CodeFlow-Toolkit"
+
+[output.html]
+default-theme = "Rust"
